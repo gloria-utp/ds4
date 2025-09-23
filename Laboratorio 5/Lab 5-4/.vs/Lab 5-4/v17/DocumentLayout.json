@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glori\\source\\repos\\ds4\\Lab 5-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7D1A6F-E28B-4AC1-B881-0D4765D47D77}|Lab 5-4\\Lab 5-4.csproj|c:\\users\\glori\\source\\repos\\ds4\\lab 5-4\\lab 5-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7D1A6F-E28B-4AC1-B881-0D4765D47D77}|Lab 5-4\\Lab 5-4.csproj|solutionrelative:lab 5-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Lab 5-4\\Lab 5-4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 5-4\\Program.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Lab 5-4\\Lab 5-4\\Program.cs",
+              "RelativeToolTip": "Lab 5-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:03:58.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
