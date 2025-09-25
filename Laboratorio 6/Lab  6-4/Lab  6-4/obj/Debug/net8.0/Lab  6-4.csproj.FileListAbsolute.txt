@@ -1,0 +1,15 @@
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\bin\Debug\net8.0\Lab  6-4.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\bin\Debug\net8.0\Lab  6-4.deps.json
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\bin\Debug\net8.0\Lab  6-4.runtimeconfig.json
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\bin\Debug\net8.0\Lab  6-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\bin\Debug\net8.0\Lab  6-4.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.AssemblyInfoInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.AssemblyInfo.cs
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.csproj.CoreCompileInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.sourcelink.json
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\refint\Lab  6-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\Lab  6-4.genruntimeconfig.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 6\Lab  6-4\Lab  6-4\obj\Debug\net8.0\ref\Lab  6-4.dll
