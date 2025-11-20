@@ -1,0 +1,29 @@
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\appsettings.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.staticwebassets.endpoints.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.deps.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.runtimeconfig.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\bin\Debug\net8.0\Lab 15-2.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.AssemblyInfoInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.AssemblyInfo.cs
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.csproj.CoreCompileInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.sourcelink.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\scopedcss\bundle\Lab 15-2.styles.css
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\refint\Lab 15-2.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\Lab 15-2.genruntimeconfig.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 15\Lab 15-2\Lab 15-2\obj\Debug\net8.0\ref\Lab 15-2.dll
