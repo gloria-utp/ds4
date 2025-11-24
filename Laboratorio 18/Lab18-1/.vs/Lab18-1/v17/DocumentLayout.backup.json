@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 18\\lab18-1\\lab18-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2EB1247-D0E1-460E-BCA8-E5C359E5E10E}|Lab18-1\\Lab18-1.csproj|solutionrelative:lab18-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab18-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab18-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:24:59.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab18-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab18-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:36:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab18-1\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Lab18-1\\Views\\Access\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:51:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Lab18-1\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Lab18-1\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:46:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab18-1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab18-1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:29:55.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab18-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 18\\Lab18-1\\Lab18-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab18-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T03:33:28.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
