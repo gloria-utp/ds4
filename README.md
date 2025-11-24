@@ -1,6 +1,5 @@
 # DS4 — Desarrollo de Software IV (DSIV-1GS221-II2025)
 
-**Carrera:** Ingeniería — Universidad Tecnológica de Panamá  
 **Curso:** Desarrollo de Software IV  
 **Rama:** `Laboratorios`  
 
