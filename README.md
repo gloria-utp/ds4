@@ -18,5 +18,5 @@ Repositorio con los laboratorios de la asignatura, enfocados en el desarrollo de
 
 
 ## Autor
-Gloria — Proyecto académico DSIV-1GS221-II2025  
+Gloria — Proyecto académico 2025  
 Repositorio: `https://github.com/gloria-utp/ds4/tree/Laboratorios`
