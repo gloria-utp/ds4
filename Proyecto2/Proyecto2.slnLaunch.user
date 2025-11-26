@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Proyecto2\\Proyecto2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Proyecto2WebForms\\Proyecto2WebForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

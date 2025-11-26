@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22107F-F846-4A90-97EE-AC0DA07B7A8F}|Proyecto2WebForms\\Proyecto2WebForms.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2webforms\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD22107F-F846-4A90-97EE-AC0DA07B7A8F}|Proyecto2WebForms\\Proyecto2WebForms.csproj|solutionrelative:proyecto2webforms\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2\\controllers\\calculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\controllers\\calculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22107F-F846-4A90-97EE-AC0DA07B7A8F}|Proyecto2WebForms\\Proyecto2WebForms.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2webforms\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD22107F-F846-4A90-97EE-AC0DA07B7A8F}|Proyecto2WebForms\\Proyecto2WebForms.csproj|solutionrelative:proyecto2webforms\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\models\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|c:\\users\\kevin portugal\\source\\repos\\ds4\\proyecto2\\proyecto2\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848781DE-4783-4DCE-A37E-46DB282D4BE6}|Proyecto2\\Proyecto2.csproj|solutionrelative:proyecto2\\models\\ws\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2WebForms\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Proyecto2WebForms\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2WebForms\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Proyecto2WebForms\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:56:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Proyecto2\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:07:30.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Controllers\\CalculosController.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Controllers\\CalculosController.cs",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Controllers\\CalculosController.cs",
+              "RelativeToolTip": "Proyecto2\\Controllers\\CalculosController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:58:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2WebForms\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Proyecto2WebForms\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2WebForms\\WebForm1.aspx",
+              "RelativeToolTip": "Proyecto2WebForms\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-26T03:46:14.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Calculo.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Models\\Calculo.cs",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\Calculo.cs",
+              "RelativeToolTip": "Proyecto2\\Models\\Calculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:54:05.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reply.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\WS\\Reply.cs",
+              "RelativeDocumentMoniker": "Proyecto2\\Models\\WS\\Reply.cs",
+              "ToolTip": "C:\\Users\\Kevin Portugal\\source\\repos\\ds4\\Proyecto2\\Proyecto2\\Models\\WS\\Reply.cs",
+              "RelativeToolTip": "Proyecto2\\Models\\WS\\Reply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:53:42.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
