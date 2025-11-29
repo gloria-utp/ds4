@@ -1,0 +1,9 @@
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\bin\Debug\Laboratorio122.exe.config
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\bin\Debug\Laboratorio122.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\bin\Debug\Laboratorio122.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.csproj.AssemblyReference.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.Properties.Resources.resources
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.csproj.GenerateResource.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.csproj.CoreCompileInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 12\Laboratorio122\Laboratorio122\obj\Debug\Laboratorio122.pdb

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 10\\laboratorio121\\laboratorio121\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|solutionrelative:laboratorio121\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 10\\laboratorio121\\laboratorio121\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|solutionrelative:laboratorio121\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 10\\laboratorio121\\laboratorio121\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|solutionrelative:laboratorio121\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 10\\laboratorio121\\laboratorio121\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|solutionrelative:laboratorio121\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|c:\\users\\glori\\source\\repos\\ds4\\laboratorio 10\\laboratorio121\\laboratorio121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0746E68D-ABF2-48FA-B639-9C9ED07772E2}|Laboratorio121\\Laboratorio121.csproj|solutionrelative:laboratorio121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Metodos.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Metodos.cs",
+              "RelativeDocumentMoniker": "Laboratorio121\\Metodos.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Metodos.cs",
+              "RelativeToolTip": "Laboratorio121\\Metodos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:13:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Laboratorio121\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.Designer.cs",
+              "RelativeToolTip": "Laboratorio121\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:11:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio121\\Form1.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.cs",
+              "RelativeToolTip": "Laboratorio121\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:10:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio121\\Program.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Program.cs",
+              "RelativeToolTip": "Laboratorio121\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:10:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio121\\Form1.cs",
+              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\Laboratorio 10\\Laboratorio121\\Laboratorio121\\Form1.cs [Design]",
+              "RelativeToolTip": "Laboratorio121\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:10:14.93Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
