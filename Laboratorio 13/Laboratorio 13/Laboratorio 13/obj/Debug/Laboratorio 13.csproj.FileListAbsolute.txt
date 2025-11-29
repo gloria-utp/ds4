@@ -1,0 +1,13 @@
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.AssemblyReference.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio_13.Properties.Resources.resources
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.GenerateResource.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.csproj.CoreCompileInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.exe.config
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\Laboratorio 13.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio 13.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laboratorio13.Form1.resources
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\System.Data.SqlClient.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\bin\Debug\System.Data.SqlClient.xml
+C:\Users\glori\source\repos\ds4\Laboratorio 13\Laboratorio 13\Laboratorio 13\obj\Debug\Laborato.8C5FD10F.Up2Date
