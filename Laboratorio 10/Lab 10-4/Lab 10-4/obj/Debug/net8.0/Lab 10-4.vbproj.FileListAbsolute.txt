@@ -1,0 +1,15 @@
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.AssemblyInfoInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.AssemblyInfo.vb
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.vbproj.CoreCompileInputs.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.sourcelink.json
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\bin\Debug\net8.0\Lab 10-4.exe
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\bin\Debug\net8.0\Lab 10-4.deps.json
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\bin\Debug\net8.0\Lab 10-4.runtimeconfig.json
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\bin\Debug\net8.0\Lab 10-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\bin\Debug\net8.0\Lab 10-4.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\refint\Lab 10-4.dll
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.pdb
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\Lab 10-4.genruntimeconfig.cache
+C:\Users\glori\source\repos\ds4\Laboratorio 10\Lab 10-4\Lab 10-4\obj\Debug\net8.0\ref\Lab 10-4.dll
