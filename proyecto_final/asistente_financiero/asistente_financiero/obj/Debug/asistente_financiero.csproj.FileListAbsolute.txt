@@ -1,0 +1,2 @@
+C:\Users\glori\source\repos\ds4\proyecto_final\asistente_financiero\asistente_financiero\obj\Debug\asistente_financiero.csproj.AssemblyReference.cache
+C:\Users\glori\source\repos\ds4\proyecto_final\asistente_financiero\asistente_financiero\obj\Debug\asistente_financiero.csproj.CoreCompileInputs.cache
