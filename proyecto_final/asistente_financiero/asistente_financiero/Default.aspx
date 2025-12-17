@@ -15,7 +15,7 @@
             <td><asp:Label ID="lblIngresos" runat="server" /></td>
         </tr>
         <tr>
-            <td>Gastos</td>
+            <td>Gastoss</td>
             <td><asp:Label ID="lblGastos" runat="server" /></td>
         </tr>
         <tr>
