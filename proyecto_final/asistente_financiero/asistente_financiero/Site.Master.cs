@@ -1,10 +1,11 @@
 ﻿using System;
-using System.Web.UI;
 
-public partial class SiteMaster : MasterPage
+namespace asistente_financiero
 {
-    protected void Page_Load(object sender, EventArgs e)
+    public partial class SiteMaster : System.Web.UI.MasterPage
     {
-        // Código mínimo - sin referencias a controles que no existen
+        protected void Page_Load(object sender, EventArgs e)
+        {
+        }
     }
 }

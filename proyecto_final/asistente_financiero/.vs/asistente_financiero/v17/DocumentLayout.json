@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{138F3592-1904-446F-913F-FDBE2C29CAF7}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138F3592-1904-446F-913F-FDBE2C29CAF7}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{DF2F40F1-2C8D-4834-B0FA-53CDC8A8593D}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{138F3592-1904-446F-913F-FDBE2C29CAF7}|asistente_financiero\\asistente_financiero.csproj|c:\\users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{138F3592-1904-446F-913F-FDBE2C29CAF7}|asistente_financiero\\asistente_financiero.csproj|solutionrelative:asistente_financiero\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Default.aspx.cs",
               "RelativeDocumentMoniker": "asistente_financiero\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Default.aspx.cs",
               "RelativeToolTip": "asistente_financiero\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T05:44:43.053Z",
+              "WhenOpened": "2025-12-17T03:53:18.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Default.aspx",
               "RelativeDocumentMoniker": "asistente_financiero\\Default.aspx",
@@ -63,72 +43,7 @@
               "RelativeToolTip": "asistente_financiero\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-12T05:31:28.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Pages\\Dashboard.aspx",
-              "RelativeDocumentMoniker": "asistente_financiero\\Pages\\Dashboard.aspx",
-              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Pages\\Dashboard.aspx",
-              "RelativeToolTip": "asistente_financiero\\Pages\\Dashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-12T05:29:12.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Pages\\Dashboard.aspx.cs",
-              "RelativeDocumentMoniker": "asistente_financiero\\Pages\\Dashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Pages\\Dashboard.aspx.cs",
-              "RelativeToolTip": "asistente_financiero\\Pages\\Dashboard.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T05:29:33.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Site.Master.cs",
-              "RelativeDocumentMoniker": "asistente_financiero\\Site.Master.cs",
-              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Site.Master.cs",
-              "RelativeToolTip": "asistente_financiero\\Site.Master.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T05:40:54.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Site.Master",
-              "RelativeDocumentMoniker": "asistente_financiero\\Site.Master",
-              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Site.Master",
-              "RelativeToolTip": "asistente_financiero\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-12T05:40:01.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Web.config",
-              "RelativeDocumentMoniker": "asistente_financiero\\Web.config",
-              "ToolTip": "C:\\Users\\glori\\source\\repos\\ds4\\proyecto_final\\asistente_financiero\\asistente_financiero\\Web.config",
-              "RelativeToolTip": "asistente_financiero\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-12T05:27:19.573Z",
+              "WhenOpened": "2025-12-17T03:53:14.253Z",
               "EditorCaption": ""
             }
           ]
