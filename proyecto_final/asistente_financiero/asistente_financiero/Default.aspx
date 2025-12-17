@@ -15,7 +15,7 @@
             <td><asp:Label ID="lblIngresos" runat="server" /></td>
         </tr>
         <tr>
-            <td>Gastoss</td>
+            <td>Gastos</td>
             <td><asp:Label ID="lblGastos" runat="server" /></td>
         </tr>
         <tr>
@@ -23,5 +23,36 @@
             <td><asp:Label ID="lblBalance" runat="server" /></td>
         </tr>
     </table>
+
+    <br />
+
+    <!-- GRÁFICO PEQUEÑO -->
+    <canvas id="chartResumen" width="300" height="300"></canvas>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const ingresos = <%= IngresosJS %>;
+        const gastos = <%= GastosJS %>;
+
+        new Chart(document.getElementById('chartResumen'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Ingresos', 'Gastos'],
+                datasets: [{
+                    data: [ingresos, gastos]
+                }]
+            },
+            options: {
+                responsive: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+    </script>
 
 </asp:Content>

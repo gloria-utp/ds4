@@ -7,6 +7,10 @@ namespace asistente_financiero
 {
     public partial class Default : Page
     {
+        // VARIABLES PARA JAVASCRIPT
+        public decimal IngresosJS { get; set; }
+        public decimal GastosJS { get; set; }
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -21,15 +25,20 @@ namespace asistente_financiero
             lblIngresos.Text = "$" + ingresos;
             lblGastos.Text = "$" + gastos;
             lblBalance.Text = "$" + (ingresos - gastos);
+
+            // Pasar valores al frontend
+            IngresosJS = ingresos;
+            GastosJS = gastos;
         }
 
         private decimal ObtenerTotal(string tabla)
         {
-            using (SqlConnection cn =
-                new SqlConnection(ConfigurationManager.ConnectionStrings["DB"].ConnectionString))
+            using (SqlConnection cn = new SqlConnection(
+                ConfigurationManager.ConnectionStrings["DB"].ConnectionString))
             {
-                SqlCommand cmd =
-                    new SqlCommand($"SELECT ISNULL(SUM(Monto),0) FROM {tabla}", cn);
+                SqlCommand cmd = new SqlCommand(
+                    $"SELECT ISNULL(SUM(Monto),0) FROM {tabla}", cn);
+
                 cn.Open();
                 return Convert.ToDecimal(cmd.ExecuteScalar());
             }

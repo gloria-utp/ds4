@@ -22,14 +22,24 @@ namespace asistente_financiero
             if (!decimal.TryParse(txtMonto.Text, out monto))
                 return;
 
-            if (!int.TryParse(txtMeses.Text, out meses))
+            if (!int.TryParse(txtMeses.Text, out meses) || meses <= 0)
                 return;
 
+            // Interés anual 24%
             decimal interesMensual = 0.24m / 12;
+
+            // Total a pagar (interés simple)
             decimal total = monto + (monto * interesMensual * meses);
 
-            lblResultado.Text = "Total a pagar: $" + total;
+            // Cuota mensual
+            decimal cuotaMensual = total / meses;
 
+            // Mostrar resultados
+            lblResultado.Text =
+                "Total a pagar: $" + total.ToString("N2") +
+                "<br/>Cuota mensual: $" + cuotaMensual.ToString("N2");
+
+            // Guardar deuda
             using (SqlConnection cn = new SqlConnection(con))
             {
                 SqlCommand cmd = new SqlCommand(

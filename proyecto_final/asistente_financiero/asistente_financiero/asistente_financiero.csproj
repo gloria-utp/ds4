@@ -80,6 +80,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database\AsistenteFinancieroDB.sql" />
     <Content Include="Default.aspx" />
     <Content Include="Deudas.aspx" />
     <Content Include="Gastos.aspx" />
@@ -142,7 +143,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Database\" />
     <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
